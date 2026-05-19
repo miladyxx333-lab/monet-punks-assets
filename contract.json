@@ -1,0 +1,8 @@
+{
+  "name": "Monet Punks",
+  "description": "10,000 CryptoPunk silhouettes painted in Claude Monet's impressionist style. Each portrait preserves the exact 24×24 pixel grid of the original CryptoPunks — male, female, zombie, ape, alien — rendered with soft impressionist dabs, broken color, and five Monet painting series as palettes. The first CryptoPunks derivative made with Claude (claude-sonnet-4.6). Built by Claude & Blue Pastel, 2026.",
+  "image": "https://raw.githubusercontent.com/miladyxx333-lab/monet-punks-assets/main/images/42.png",
+  "external_link": "https://miladyxx333-lab.github.io/monet-punks/",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0x65D472172E4933aa4Ddb995CF4Ca8bef72a46576"
+}
